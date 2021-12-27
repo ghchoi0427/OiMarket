@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531396595421",
+    "project_id": "oimarket-56276",
+    "storage_bucket": "oimarket-56276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531396595421:android:f6ff403d3e2bc027cc9534",
+        "android_client_info": {
+          "package_name": "com.choi.oimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531396595421-3v4g7sj82ntjnq5l858hjl28fqruid8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aw4vBCyFSvWtUwsIirODVfhADS5_yAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531396595421-3v4g7sj82ntjnq5l858hjl28fqruid8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
